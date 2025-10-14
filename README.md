@@ -6,9 +6,9 @@
 
 A blog template built with template [Fuwari](https://github.com/saicaca/fuwari) in [Astro](https://astro.build).
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+[**🖥️ Live Demo (Netlify)**](https://hsuk-blog.netlify.app/)
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+<!-- ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png) -->
 
 ## 📄 License
 
