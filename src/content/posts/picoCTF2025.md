@@ -13,7 +13,7 @@ draft: false
 
 ### Echo Valley
 先用`%p`找到return address
-![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_2efcd7ef58bfddd3cfd121553797fb8c.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1760948591&Signature=opX06FlxtUjRmlh8WO3AklRN4cc%3D)
+![image](https://hackmd.io/_uploads/Bk-yYKM3gx.png)
 
 ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_efb4e127eba593f816a6e9f00cf0f78d.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1760948624&Signature=C1qU7d5dNfAd6zlVZCXBv0ckWTU%3D)
 
