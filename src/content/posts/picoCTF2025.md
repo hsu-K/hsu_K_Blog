@@ -4,7 +4,7 @@ published: 2025-10-20
 description: picoCTF2025 Writeup
 tags: [CTF]
 category: Learning
-draft: false
+draft: true
 ---
 ## Binary
 ### PIE TIME 2
